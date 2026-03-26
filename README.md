@@ -23,10 +23,6 @@ hey, I'm sawyer — I build practical things that sit at the intersection of har
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,nodejs,linux,docker,git,github,vscode,html,css,mysql&theme=dark" />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Fusion_360-0d1117?style=flat-square&logo=autodesk&logoColor=39FF14" />
-
 </div>
 
 ---
