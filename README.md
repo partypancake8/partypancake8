@@ -46,8 +46,7 @@ hey, I'm sawyer — I build practical things that sit at the intersection of har
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=partypancake8&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=c9d1d9&icon_color=39FF14" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=partypancake8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=c9d1d9" />
+<img src="https://streak-stats.demolab.com?user=partypancake8&theme=dark&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=c9d1d9&stroke=39FF14" />
 
 </div>
 
