@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0b1020,40:0f1f0f,100:39FF14&text=partypancake8&fontColor=e6edf3&fontSize=42&fontAlignY=40&desc=robotics%20%7C%20automation%20%7C%20fabrication%20%7C%20software&descAlignY=63&animation=fadeIn" width="100%" />
 
-[![GitHub followers](https://img.shields.io/github/followers/partypancake8?label=follow&style=flat-square&color=39FF14&labelColor=0d1117)](https://github.com/partypancake8)
+[![GitHub followers](https://img.shields.io/github/followers/partypancake8?label=follow&style=for-the-badge&labelColor=39FF14&color=0d1117)](https://github.com/partypancake8)
 
 </div>
 
