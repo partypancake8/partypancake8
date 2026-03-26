@@ -21,13 +21,11 @@ hey, I'm sawyer — I build practical things that sit at the intersection of har
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,nodejs,linux,docker,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,nodejs,linux,docker,git,github,vscode,html,css,mysql&theme=dark" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Fusion_360-0d1117?style=flat-square&logo=autodesk&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=sqlite&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/HTML%2FCSS-0d1117?style=flat-square&logo=html5&logoColor=39FF14" />
 
 </div>
 
