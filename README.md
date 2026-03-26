@@ -2,16 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0b1020,40:0f1f0f,100:39FF14&text=partypancake8&fontColor=e6edf3&fontSize=42&fontAlignY=40&desc=robotics%20%7C%20automation%20%7C%20fabrication%20%7C%20software&descAlignY=63&animation=fadeIn" width="100%" />
 
-
-
-
 </div>
 
 ---
 
 ## about
 
-I build practical things across hardware, software, CAD, and automation.
+hey, I'm sawyer — I build practical things that sit at the intersection of hardware, software, and fabrication.
 
 - robotics and embedded systems
 - workflow tools and internal apps
@@ -39,9 +36,9 @@ I build practical things across hardware, software, CAD, and automation.
 ## current focus
 
 ```bash
-> polishing projects
-> connecting hardware and software
-> building cleaner systems
+> finishing the e-ink weather display (ESP32 + OTA)
+> tightening up hardware/software integration
+> building cleaner, more maintainable systems
 > shipping more finished work
 ```
 
@@ -63,6 +60,12 @@ I build practical things across hardware, software, CAD, and automation.
 </div>
 
 <br>
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/partypancake8?label=follow&style=flat-square&color=39FF14&labelColor=0d1117)](https://github.com/partypancake8)
+
+</div>
 
 <div align="center">
 
