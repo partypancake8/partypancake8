@@ -4,8 +4,6 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1600&color=39FF14&center=true&vCenter=true&width=700&lines=%24+building+useful+systems;%24+robotics+%2B+software+%2B+fabrication;%24+shipping+cleaner+projects)](https://git.io/typing-svg)
-
 <br><br>
 
 <img src="https://img.shields.io/badge/robotics-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
