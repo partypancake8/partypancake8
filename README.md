@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0b1020,40:0f1f0f,100:39FF14&text=partypancake8&fontColor=e6edf3&fontSize=42&fontAlignY=40&desc=robotics%20%7C%20automation%20%7C%20fabrication%20%7C%20software&descAlignY=63&animation=fadeIn" width="100%" />
 
-<br>
-
-<br><br>
 
 <img src="https://img.shields.io/badge/robotics-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
 <img src="https://img.shields.io/badge/automation-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
