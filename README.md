@@ -1,98 +1,139 @@
 <div align="center">
 
-# 🥞 Hey, I'm partypancake8! 🎉
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Full-stack+developer+🚀;Open-source+enthusiast+🌟;Always+learning+something+new+🌱)](https://git.io/typing-svg)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=partypancake8&style=flat-square&color=orange&label=Profile+Views)](https://github.com/partypancake8)
-
+````text
+> booting profile...
+> user: partypancake8
+> status: building
+partypancake8
+Robotics | automation | fabrication | software | weird useful tools
 </div>
+~/about
+I build practical things across software, hardware, CAD, and automation.
 
----
+Current interests:
+- robotics and embedded systems
+- internal tools and workflow automation
+- CAD, prototyping, and 3D printing
+- making clean systems that actually do something
+~/stack
+Languages:
+- Python
+- JavaScript
+- TypeScript
+- C++
+- SQL
+- HTML/CSS
 
-## 🙋 About Me
+Tools:
+- Git
+- GitHub
+- Linux
+- Docker
+- VS Code
+- Fusion 360
+- Node.js
+~/current_focus
+[1] building better systems
+[2] making projects more polished and usable
+[3] exploring tools that connect hardware and software
+[4] learning by making, not just reading
+~/featured
 
-- 🔭 I'm currently building cool things and exploring new ideas
-- 🌱 Always learning — currently diving deeper into open-source and developer tooling
-- 🎮 Fun fact: I think pancakes are the superior breakfast food 🥞
-- 💬 Ask me about anything tech, or just say hi!
-- 📫 Find me on GitHub: [@partypancake8](https://github.com/partypancake8)
-- ⚡ I believe the best code is code that makes people smile 😄
+Replace these with your actual best repos.
 
----
+> pinned projects should go here
+> choose your strongest 4-6
+> prioritize projects with:
+  - clear purpose
+  - strong README
+  - screenshots, GIFs, or demos
+  - clean names
 
-## 🛠️ Tech Stack & Tools
+Suggested types of pinned repos:
+
+best technical project
+best polished product/tool
+most "you" project
+one hardware/fabrication project
+one automation/internal-tool project
+one fun or strange side project
+~/stats
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=partypancake8&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=partypancake8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41" alt="Top languages" /> </div>
+~/links
+github  -> https://github.com/partypancake8
+<div align="center">
+> end transmission
+</div> ```
+What I changed
+removed almost all emojis
+removed the cheesy personality filler
+removed the giant trophy / graph / streak overload
+switched the tone from "template developer" to "actual builder"
+made it feel more terminal-like without becoming cringey
+pushed it toward black + green
+Strong recommendation
+
+I would not include all of these:
+
+trophies
+contribution graph
+streak stats
+profile view counter
+typing animation
+
+That stuff usually makes a profile look noisier, not cooler.
+
+Better version with a little more personality
+
+If you want something slightly more styled and still clean, use this instead:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+# partypancake8
 
+```text
+$ whoami
+robotics student
+builder
+automation enjoyer
+prints parts, writes code, breaks things, fixes them
 </div>
+about
+I like building things that feel sharp, useful, and a little unusual.
 
----
+Most of my work sits somewhere between:
+- robotics
+- software tools
+- CAD and fabrication
+- embedded systems
+- workflow automation
+stack
+python      javascript      typescript      c++
+sql         html/css        node.js         linux
+git         docker          fusion 360      vscode
+now
+$ ls current_focus/
+automation-tools
+robotics-projects
+fabrication-workflows
+useful-side-projects
+stats
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=partypancake8&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=partypancake8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41" alt="Top languages" /> </div>
+contact
+github -> github.com/partypancake8
 
-## 📊 GitHub Analytics
+## My blunt take
+Your README should not be the main attraction.
 
-<div align="center">
+The coolest GitHub profiles usually win because:
+- the pinned repos are good
+- repo names are clean
+- READMEs inside projects are polished
+- screenshots/GIFs are present
+- bio is sharp
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=partypancake8&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="partypancake8's GitHub stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=partypancake8&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="partypancake8's top languages"/>
+The profile itself should just frame that well.
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=partypancake8&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=partypancake8&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![partypancake8's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=partypancake8&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌟 Featured Repositories
-
-<div align="center">
-
-[![partypancake8/partypancake8](https://github-readme-stats.vercel.app/api/pin/?username=partypancake8&repo=partypancake8&theme=radical&hide_border=true)](https://github.com/partypancake8/partypancake8)
-
-</div>
-
----
-
-<div align="center">
-
-### 💖 Thanks for visiting! Drop a ⭐ if you find something interesting!
-
-*"Any sufficiently advanced pancake is indistinguishable from magic."* 🥞✨
-
-</div>
+## Best next move
+I can make you a **fully customized version based on your real projects** so it actually sounds like you and includes your actual repo types instead of placeholders.
+````
