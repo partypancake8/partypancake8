@@ -27,32 +27,6 @@ hey, I'm sawyer — I build practical things that sit at the intersection of har
 
 </div>
 
----
-
-## current focus
-
-```bash
-> finishing the e-ink weather display (ESP32 + OTA)
-> tightening up hardware/software integration
-> building cleaner, more maintainable systems
-> shipping more finished work
-```
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=partypancake8&theme=dark&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=c9d1d9&stroke=39FF14" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=partypancake8&bg_color=00000000&color=39FF14&line=39FF14&point=c9d1d9&area=true&hide_border=true" width="100%" />
-
-</div>
 
 <div align="center">
 
